@@ -1,5 +1,7 @@
 # EX 2D BACKTRACKING - GRAPH COLORING PROBLEM
-## DATE: 15/03/25
+# Developed by: Marella Dharanesh
+
+# Register Number: 212222240062
 ## AIM:
 To solve the Graph Coloring Problem using backtracking, assigning colors to the vertices of a graph such that no two adjacent vertices share the same color while minimizing the number of colors used.
 
