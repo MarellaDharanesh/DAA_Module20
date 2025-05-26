@@ -1,7 +1,8 @@
 # EX 2B BACKTRACKING - NQUEEN PROBLEM
 
-# Developed by: Lokesh N
-# Register Number: 212222100023
+# Developed by: Marella Dharanesh
+
+# Register Number: 212222240062
 ## AIM:
 To solve the N-Queen problem using backtracking, which places N queens on an N*N chessboard such that no two queens threaten each other.
 
