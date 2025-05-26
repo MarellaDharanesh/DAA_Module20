@@ -1,7 +1,7 @@
 ##  EX 2C BACKTRACKING- SUBSET SUM PROBLEM
-# Developed by: Lokesh N
+# Developed by: Marella Dharanesh
 
-# Register Number: 212222100023
+# Register Number: 212222240062
 
 ## AIM:
 To demonstrate that the sum of the subset of a given set is equal to the given sum.
