@@ -27,9 +27,6 @@ To solve the Graph Coloring Problem using backtracking, assigning colors to the 
 ## Program:
 Program to implement Graph Coloring Problem using backtracking.
 
-Developed by: Lokesh N
-
-Register Number: 212222100023
 
 ```
 class Graph:
