@@ -1,7 +1,7 @@
 ## EX 2A BACKTRACKING - RAT IN MAZE PROBLEM
-# Developed by: Lokesh N
+# Developed by: Marella Dharanesh
 
-# Register Number: 212222100023
+# Register Number: 212222240062
 ## AIM:
 To implement the Rat in a Maze problem using backtracking and find all possible paths from the start to the destination in a given maze.
 
